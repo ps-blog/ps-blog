@@ -26,3 +26,13 @@ I'm just going to mine over my bookmarks and RSS feeds here...
   * https://codingstruggles.com/purescript/purescript-simple-ajax.html
 * https://lukajcb.github.io/blog/functional/2018/01/03/optimizing-tagless-final.html
   
+
+# possible collaborators / contributors
+
+NB i haven't mentioned this to any of the people below
+
+* John Watson: https://github.com/newlandsvalley
+* Gary B: see above
+* Mike Solomon
+* Nate Faubion - a lot of writing in README's for his libraries could be present in blog form
+  
