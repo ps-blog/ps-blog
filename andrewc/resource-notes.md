@@ -35,4 +35,4 @@ NB i haven't mentioned this to any of the people below
 * Gary B: see above
 * Mike Solomon
 * Nate Faubion - a lot of writing in README's for his libraries could be present in blog form
-  
+* Charles Scalfani - wonder if he'd like to make some bits of his book (https://leanpub.com/fp-made-easier) into blog posts? 
